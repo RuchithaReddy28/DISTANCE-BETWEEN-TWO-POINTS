@@ -30,6 +30,6 @@ print("{:.2f}".format(distance))
 
 ### OUTPUT:
 ![output](https://github.com/RuchithaReddy28/DISTANCE-BETWEEN-TWO-POINTS/blob/main/formula.JPG?raw=true)
-![output]()
+![output](https://github.com/RuchithaReddy28/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(21).png?raw=true)
 
 ### RESULT:
