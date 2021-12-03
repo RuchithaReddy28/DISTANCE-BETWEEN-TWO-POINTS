@@ -33,3 +33,4 @@ print("{:.2f}".format(distance))
 ![output](https://github.com/RuchithaReddy28/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(21).png?raw=true)
 
 ### RESULT:
+Thus the distance between two points is successfully executed.
