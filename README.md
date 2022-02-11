@@ -11,7 +11,7 @@ Import the numpy module to use the built-in functions for calculations.
 Prepare the lists for each linear equations ans assign the array in np.sqrt().
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg?raw=true)
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 
 ### Step 4: 
 End the program.
